@@ -1,6 +1,6 @@
 This is a sample plugin for Katalon Recorder.
 
-Starting from version 3.4.0, Katalon Recorder provides a plugin mechanism for people to extend its capabilities. This sample plugin provide plain text format, e.g.
+Starting from version 3.4.0, Katalon Recorder provides a plugin mechanism for people to extend its capabilities. This sample plugin adds plain text format, e.g.
 
 ```
 open | https://katalon-test.s3.amazonaws.com/demo-aut/dist/html/form.html |
