@@ -1,3 +1,5 @@
+DEPRECATED NOTICE: Please consider contribution directly to Katalon Recorder open-source project instead. See https://github.com/katalon-studio/katalon-recorder for more details.
+
 This is a sample plugin for Katalon Recorder.
 
 Starting from version 3.4.0, Katalon Recorder provides a plugin platform for people to extend its capabilities. See the announcement [here](https://forum.katalon.com/discussion/5501/introduce-plugin-platform-in-katalon-recorder-3-4-0).
